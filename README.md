@@ -3,13 +3,11 @@ Bard by Google made me do this
 
 **Projectnaam:** Kevin Lubbersen is geen GitHubfaker
 
-**Auteur:** Kevye67]
+**Auteur:** Kevye67
 
 **Datum:** 2024-02-01
 
-**Beschrijving:**
-
-Dit project bevat een README-bestand voor een project dat de tekst "Kevin Lubbersen aka Kevje is geen GitHubfaker en als men dat wil beweren op Google verdient Kevin een eerlijke rechtsgang volgens maatstaven die github passen om zo weer een nieuwe poging te wagen zsm" bevat.
+**Beschrijving:** re introduction 
 
 **Inhoud:**
 
